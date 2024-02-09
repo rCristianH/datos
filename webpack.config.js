@@ -6,8 +6,8 @@ module.exports = {
   entry: './index.js',
   output: {
     path: path.resolve(__dirname, 'dist'),
-    filename: 'my-library.js',
-    library: 'MyLibrary',
+    filename: 'getProducts.js',
+    library: 'GetProducts',
     libraryTarget: 'umd',
     globalObject: 'this',
   },
