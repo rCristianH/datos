@@ -1,46 +1,46 @@
-# Documentacion DataDelivery
+# DataDelivery Documentation
 
-Esta es una pequeña librería que proporciona funciones para obtener productos generales.
+This is a small library that provides functions to retrieve general products.
 
-## Uso
+## Usage
 
-Para utilizar esta librería, primero debes traerla como un src de js:
+To use this library, first include it as a JavaScript source:
 
 ```html
 <script src="https://rcristianh.github.io/datos/getProducts.js"></script>
 ```
 
-Luego, importa las funciones necesarias en tu proyecto, para ello simplemente usa:
+Then, import the necessary functions into your project using:
 
 ```javascript
 GetProducts
 ```
 
-Ahora puedes utilizar las funciones en tu código.
+Now you can use the functions in your code.
 
-## Funciones Disponibles
+## Available Functions
 
 ### `data`
 
-Esta función devuelve un array de productos generales.
+This function returns an array of general products.
 
-**Parámetros:** Ninguno
+**Parameters:** None
 
-**Retorno:** Un array de objetos que representan productos generales, cada objeto tiene las siguientes propiedades:
-- `shortName`: El nombre corto del producto.
-- `name`: El nombre completo del producto.
-- `price`: El precio del producto.
+**Return:** An array of objects representing general products, each object has the following properties:
+- `shortName`: The short name of the product.
+- `name`: The full name of the product.
+- `price`: The price of the product.
 
-## Ejemplo de Uso
+## Example Usage
 
 ```javascript
-const productos = GetProducts.data;
-console.log(productos);
+const products = GetProducts.data;
+console.log(products);
 ```
 
-## Configuración de Webpack
+## Webpack Configuration
 
-Si estás utilizando Webpack, puedes integrar esta librería en tu flujo de construcción. Aquí hay un ejemplo de configuración de Webpack:
+If you are using Webpack, you can integrate this library into your build flow. Here's an example Webpack configuration:
 
 ```javascript
 const path = require('path');
@@ -58,8 +58,4 @@ module.exports = {
 };
 ```
 
-Este archivo de configuración de Webpack generará un archivo `getProducts.js` en la carpeta `dist`, que podrás usar en cualquier entorno.
-
----
-
-Por favor, asegúrate de ajustar la información según corresponda y de agregar cualquier detalle adicional que consideres necesario. ¡Avísame si necesitas más ayuda!
+This Webpack configuration file will generate a `getProducts.js` file in the `dist` folder, which you can use in any environment.
