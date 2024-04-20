@@ -14,8 +14,8 @@ export const data = {
     { shortName: "Loncha", name: "Queso Loncha", price: 1500 },
   ],
   paquetes: [
-    { shortName: "Delgada", name: "Delgada", price: 13000 },
-    { shortName: "Gorda", name: "Gorda", price: 10000 },
+    { shortName: "Delgada", name: "Delgada", price: 14000 },
+    { shortName: "Gorda", name: "Gorda", price: 11000 },
     { shortName: "Sin sal", name: "Sin sal", price: 6000 },
   ],
   bebidas: [
