@@ -21,6 +21,7 @@ export const data = {
   bebidas: [
     { shortName: "Cafe", name: "Cafe", price: 1000 },
     { shortName: "Cafe Leche", name: "Cafe Leche", price: 1300 },
+    { shortName: "Cafe Especial", name: "Cafe Especial", price: 1200 },
     { shortName: "Chocolate", name: "Chocolate", price: 2500 },
     { shortName: "Vaso", name: "Vaso", price: 300 },
   ],
