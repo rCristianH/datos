@@ -4,11 +4,11 @@ export const test = () => {
 export const data = {
   arepas: [
     { shortName: "Delgada", name: "Delgada", price: 1500 },
-    { shortName: "Delgada Q", name: "Delgada Queso", price: 4500 },
+    { shortName: "Delgada Q", name: "Delgada Queso", price: 4300 },
     { shortName: "Delgada H", name: "Delgada Huevo", price: 4000 },
     { shortName: "Gratinada", name: "Gratinada", price: 6000 },
     { shortName: "Gorda", name: "Gorda", price: 1200 },
-    { shortName: "Gorda Q", name: "Gorda Queso", price: 3900 },
+    { shortName: "Gorda Q", name: "Gorda Queso", price: 3400 },
     { shortName: "Sin sal", name: "Sin sal", price: 600 },
     { shortName: "Sin sal Q", name: "Sin sal Queso", price: 3000 },
     { shortName: "Loncha", name: "Queso Loncha", price: 1500 },
