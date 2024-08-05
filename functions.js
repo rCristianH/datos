@@ -41,5 +41,11 @@ export const data = {
       inputPlaceholder: "Nombre",
       inputClass: "name-input",
     },
+    {
+      input: "input",
+      inputType: "text",
+      inputPlaceholder: "0.0.0.0:0",
+      inputClass: "ip-input"
+    }
   ],
 };
