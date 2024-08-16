@@ -1,6 +1,6 @@
 export const test = () => {
-	console.log(2+5, "sumar")
-}
+  console.log(2 + 5, "sumar");
+};
 export const data = {
   arepas: [
     { shortName: "Delgada", name: "Delgada", price: 1500 },
@@ -45,7 +45,71 @@ export const data = {
       input: "input",
       inputType: "text",
       inputPlaceholder: "0.0.0.0:0",
-      inputClass: "ip-input"
-    }
+      inputClass: "ip-input",
+    },
   ],
+};
+export const ToDos = () => {
+  infoTodos: [
+    {
+      author: "María",
+      username: "mariaG",
+      infoTodo: "Revisar el informe financiero",
+      id: "001234567890123",
+    },
+    {
+      author: "Luis",
+      username: "luisR",
+      infoTodo: "Programar la reunión semanal",
+      id: "001234567890124",
+    },
+    {
+      author: "Ana",
+      username: "anaP",
+      infoTodo: "Enviar la propuesta al cliente",
+      id: "001234567890125",
+    },
+    {
+      author: "Carlos",
+      username: "carlosM",
+      infoTodo: "Actualizar la base de datos",
+      id: "001234567890126",
+    },
+    {
+      author: "Elena",
+      username: "elenaH",
+      infoTodo: "Organizar el evento de fin de año",
+      id: "001234567890127",
+    },
+    {
+      author: "Javier",
+      username: "javierT",
+      infoTodo: "Realizar la auditoría interna",
+      id: "001234567890128",
+    },
+    {
+      author: "Sofía",
+      username: "sofiaL",
+      infoTodo: "Preparar la presentación trimestral",
+      id: "001234567890129",
+    },
+    {
+      author: "Fernando",
+      username: "fernandoQ",
+      infoTodo: "Revisar las políticas de seguridad",
+      id: "001234567890130",
+    },
+    {
+      author: "Lucía",
+      username: "luciaD",
+      infoTodo: "Coordinar la capacitación de nuevos empleados",
+      id: "001234567890131",
+    },
+    {
+      author: "Pablo",
+      username: "pabloS",
+      infoTodo: "Supervisar el proyecto de innovación",
+      id: "001234567890132",
+    },
+  ];
 };
