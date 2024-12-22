@@ -9,11 +9,11 @@ export const data = {
     { shortName: "Gratinada", name: "Gratinada", price: 6300 },
     { shortName: "Gorda", name: "Gorda", price: 1300 },
     { shortName: "Gorda Q", name: "Gorda Queso", price: 3500 },
-    { shortName: "Gorda L", name: "Gorda Loncha", price: 2900},
+    { shortName: "Gorda L", name: "Gorda Loncha", price: 3000},
     { shortName: "Sin sal", name: "Sin sal", price: 600 },
     { shortName: "Sin sal Q", name: "Sin sal Queso", price: 3000 },
     { shortName: "Sin Sal L", name: "Sin Sal Loncha", price: 2200},
-    { shortName: "Loncha", name: "Queso Loncha", price: 1600},
+    { shortName: "Loncha", name: "Queso Loncha", price: 1700},
   ],
   paquetes: [
     { shortName: "Delgada", name: "Paquete Delgada", price: 15000 },
