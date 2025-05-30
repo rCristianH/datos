@@ -21,11 +21,11 @@ export const data = {
     { shortName: "Sin sal", name: "Paquete Sin sal", price: 6000 },
   ],
   bebidas: [
-    { shortName: "Cafe", name: "Cafe", price: 1100 },
-    { shortName: "Cafe Leche", name: "Cafe Leche", price: 1500 },
-    { shortName: "Cafe Especial", name: "Cafe Especial", price: 1300 },
+    { shortName: "Cafe", name: "Cafe", price: 1300 },
+    { shortName: "Cafe Leche", name: "Cafe Leche", price: 1700 },
+    { shortName: "Cafe Especial", name: "Cafe Especial", price: 1500 },
     { shortName: "Chocolate", name: "Chocolate", price: 2700 },
-    { shortName: "Vaso", name: "Vaso", price: 300 },
+    { shortName: "Vaso", name: "Vaso", price: 300 },		
   ],
   huevos: [
     { shortName: "Huevos", name: "Huevos", price: 2700 },
