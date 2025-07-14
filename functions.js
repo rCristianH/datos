@@ -22,8 +22,11 @@ export const data = {
   ],
   bebidas: [
     { shortName: "Cafe", name: "Cafe", price: 1300 },
+    { shortName: "Cafe M", name: "Cafe M", price: 700 },
     { shortName: "Cafe Leche", name: "Cafe Leche", price: 1700 },
+    { shortName: "Cafe Leche", name: "Cafe Leche", price: 900 },
     { shortName: "Cafe Especial", name: "Cafe Especial", price: 1500 },
+    { shortName: "Cafe E Leche", name: "Cafe E Leche", price: 1900 },
     { shortName: "Chocolate", name: "Chocolate", price: 2700 },
     { shortName: "Vaso", name: "Vaso", price: 300 },		
   ],
@@ -31,6 +34,8 @@ export const data = {
     { shortName: "Huevos", name: "Huevos", price: 2700 },
     { shortName: "Huevo", name: "Huevo", price: 2000 },
     { shortName: "Pericos", name: "Pericos", price: 4000 },
+    { shortName: "Domicilio", name: "Domicilio", price: 1000 },
+    
     {
       input: "input",
       inputType: "number",
