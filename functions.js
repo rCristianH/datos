@@ -33,7 +33,7 @@ export const data = {
   huevos: [
     { shortName: "Huevos", name: "Huevos", price: 2700 },
     { shortName: "Huevo", name: "Huevo", price: 2000 },
-    { shortName: "Pericos", name: "Pericos", price: 4000 },
+    { shortName: "Pericos", name: "Pericos", price: 4500 },
     { shortName: "Domicilio", name: "Domicilio", price: 1000 },
     
     {
