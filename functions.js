@@ -3,22 +3,25 @@ export const test = () => {
 };
 export const data = {
   arepas: [
-    { shortName: "Delgada", name: "Delgada", price: 1600 },
-    { shortName: "Delgada Q", name: "Delgada Queso", price: 4500 },
-    { shortName: "Delgada H", name: "Delgada Huevo", price: 4300 },
-    { shortName: "Gratinada", name: "Gratinada", price: 6300 },
+    { shortName: "Delgada", name: "Delgada", price: 1700 },
+    { shortName: "Delgada Q", name: "Delgada Queso", price: 4800 },
+    { shortName: "Gratinada", name: "Gratinada", price: 6700 },
     { shortName: "Gorda", name: "Gorda", price: 1300 },
-    { shortName: "Gorda Q", name: "Gorda Queso", price: 3500 },
-    { shortName: "Gorda L", name: "Gorda Loncha", price: 3000},
+    { shortName: "Gorda Q", name: "Gorda Queso", price: 3700 },
+    { shortName: "Gorda L", name: "Gorda Loncha", price: 3200},
     { shortName: "Sin sal", name: "Sin sal", price: 600 },
     { shortName: "Sin sal Q", name: "Sin sal Queso", price: 3000 },
-    { shortName: "Sin Sal L", name: "Sin Sal Loncha", price: 2300},
-    { shortName: "Loncha", name: "Queso Loncha", price: 1700},
+    { shortName: "Sin Sal L", name: "Sin Sal Loncha", price: 2600},
+    { shortName: "Loncha", name: "Queso Loncha", price: 1800},
+    { shortName: "Loncha", name: "Guiso", price: 900},
   ],
   paquetes: [
     { shortName: "Delgada", name: "Paquete Delgada", price: 16000 },
+    { shortName: "Delgada", name: "Paquete Delgada", price: 16500 },
     { shortName: "Gorda", name: "Paquete Gorda", price: 13000 },
+    { shortName: "Gorda", name: "Paquete Gorda", price: 13500 },
     { shortName: "Sin sal", name: "Paquete Sin sal", price: 6000 },
+    { shortName: "Sin sal", name: "Paquete Sin sal", price: 6500 },
   ],
   bebidas: [
     { shortName: "Cafe", name: "Cafe", price: 1300 },
@@ -34,6 +37,7 @@ export const data = {
     { shortName: "Huevos", name: "Huevos", price: 2700 },
     { shortName: "Huevo", name: "Huevo", price: 2000 },
     { shortName: "Pericos", name: "Pericos", price: 4500 },
+    { shortName: "Huevo", name: "Huevo Adicional", price: 700 },
     { shortName: "Domicilio", name: "Domicilio", price: 1000 },
     
     {
