@@ -17,11 +17,11 @@ export const data = {
   ],
   paquetes: [
     { shortName: "Delgada", name: "Paquete Delgada", price: 16000 },
-    { shortName: "Delgada", name: "Paquete Delgada", price: 16500 },
+    { shortName: "Delgada", name: "Paquete D Llevar", price: 16500 },
     { shortName: "Gorda", name: "Paquete Gorda", price: 13000 },
-    { shortName: "Gorda", name: "Paquete Gorda", price: 13500 },
+    { shortName: "Gorda", name: "Paquete G Llevar", price: 13500 },
     { shortName: "Sin sal", name: "Paquete Sin sal", price: 6000 },
-    { shortName: "Sin sal", name: "Paquete Sin sal", price: 6500 },
+    { shortName: "Sin sal", name: "Paquete SS Llevar", price: 6500 },
   ],
   bebidas: [
     { shortName: "Cafe", name: "Cafe", price: 1300 },
