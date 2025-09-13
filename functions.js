@@ -23,7 +23,7 @@ export const data = {
   ],
   bebidas: [
     { shortName: "Cafe", name: "Cafe", price: 1400 },
-    { shortName: "Cafe M", name: "Cafe M", price: 700 },
+    { shortName: "Cafe M", name: "Cafe M", price: 800 },
     { shortName: "Cafe Leche", name: "Cafe Leche", price: 1800 },
     { shortName: "Cafe Leche", name: "Cafe Leche", price: 900 },
     { shortName: "Cafe Especial", name: "Cafe Especial", price: 1600 },
