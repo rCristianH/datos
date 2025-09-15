@@ -67,5 +67,5 @@ export const additional = {
     {id: 2002, nameAddiction: "Queso Loncha", price: 1800 },
     {id: 3001, nameAddiction: "Guiso", price: 900 },
     {id: 4001, nameAddiction: "1 Huevo", price: 700 },
-  ];
+  ],
 };
