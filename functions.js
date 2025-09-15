@@ -58,7 +58,7 @@ export const data = {
     },
   ],
 };
-export const additional = {
+export const additional = {[
   {id: 1001, nameAddiction: "Queso Rayado", price: 3100 },
   {id: 1002, nameAddiction: "Gratinada", price: 5000 },
   {id: 1003, nameAddiction: "Pericos", price: 4500 },
@@ -66,4 +66,4 @@ export const additional = {
   {id: 2002, nameAddiction: "Queso Loncha", price: 1800 },
   {id: 3001, nameAddiction: "Guiso", price: 900 },
   {id: 4001, nameAddiction: "1 Huevo", price: 700 },
-};
+]};
