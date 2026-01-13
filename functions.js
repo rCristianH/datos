@@ -24,17 +24,17 @@ export const data = {
   bebidas: [
     { shortName: "Cafe", name: "Cafe", price: 1400, catalog: true },
     { shortName: "Cafe M", name: "Cafe M", price: 800 },
-    { shortName: "Cafe Leche", name: "Cafe Leche", price: 1800, catalog: true },
+    { shortName: "Cafe Leche", name: "Cafe Leche", price: 2000, catalog: true },
     { shortName: "Cafe Leche", name: "Cafe Leche", price: 900 },
     { shortName: "Cafe Especial", name: "Cafe Especial", price: 1600, catalog: true },
-    { shortName: "Cafe E Leche", name: "Cafe E Leche", price: 2000 },
+    { shortName: "Cafe E Leche", name: "Cafe E Leche", price: 2200 },
     { shortName: "Chocolate", name: "Chocolate", price: 2700, catalog: true },
     { shortName: "Vaso", name: "Vaso", price: 300 },		
   ],
   huevos: [
     { shortName: "Huevos", name: "Huevos", price: 2700, catalog: true, extras: [ 4001 ] },
     { shortName: "Huevo", name: "Huevo", price: 2000 },
-    { shortName: "Pericos", name: "Pericos", price: 4500, catalog: true, extras: [ 4001 ] },
+    { shortName: "Pericos", name: "Pericos", price: 5000, catalog: true, extras: [ 4001 ] },
     { shortName: "Huevo", name: "Huevo Adicional", price: 700 },
     { shortName: "Domicilio", name: "Domicilio", price: 1000 },
     
