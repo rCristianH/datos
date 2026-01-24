@@ -13,7 +13,7 @@ export const data = {
     { shortName: "Sin sal Q", name: "Sin sal Queso", price: 3000 },
     { shortName: "Sin Sal L", name: "Sin Sal Loncha", price: 2600 },
     { shortName: "Loncha", name: "Queso Loncha", price: 1800 },
-    { shortName: "Guiso", name: "Guiso", price: 900 },
+    { shortName: "Guiso", name: "Guiso", price: 1500 },
   ],
   paquetes: [
     { shortName: "Delgada", name: "Paquete Delgada", price: 17000, catalog: true },
